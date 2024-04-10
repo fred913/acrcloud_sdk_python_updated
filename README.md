@@ -1,3 +1,8 @@
+# ACRCloud Python SDK
+
+But this fork supports aarch and ARM architectures as well!
+It works as a drop-in replacement for the original ACRCloud Python SDK.
+
 # Audio Recognition Python SDK
 
 ## Overview
